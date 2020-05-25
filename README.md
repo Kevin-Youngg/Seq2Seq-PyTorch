@@ -2,9 +2,9 @@
  Implementation of Seq2Seq(attetion, beamSearch...) with PyTorch
 
 # 项目结构
-.
-├── README.md
-├── checkpoints            #保存已训练的模型的参数
+.  
+├── README.md  
+├── checkpoints            #保存已训练的模型的参数  
 ├── data
 │   ├── __init__.py
 │   ├── Dataset.py         #dataloader
