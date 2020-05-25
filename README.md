@@ -38,7 +38,7 @@
 # 实现
 ---
 ## 数据集
-DailyDialog
+DailyDialog（多轮对话，日常生活话题）
 * 规模：Total Dialogues	13,118，Average Speaker Turns Per Dialogue	7.9
 * Ref：http://yanran.li/dailydialog
 
