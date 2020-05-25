@@ -1,5 +1,5 @@
 # Seq2Seq-PyTorch
- Implementation of Seq2Seq(attetion, beamSearch...) with PyTorch。
+ Implementation of Seq2Seq(attetion, beamSearch...) with PyTorch 
 
 # 项目结构
 ---
