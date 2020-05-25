@@ -55,6 +55,12 @@ DailyDialog
 
 # 使用方法
 ---
+## 安装依赖库
+```
+$ pip install -r requirements.txt
+```
+
+模型训练和评估的函数均位于main.py文件内，通过参数的控制实现,目前可修改的参数如下
 ```
 $ python main.py --help
 usage: main.py [-h] [--train_data_root TRAIN_DATA_ROOT]
@@ -77,7 +83,7 @@ usage: main.py [-h] [--train_data_root TRAIN_DATA_ROOT]
                [--test]
 
 ```
-模型训练和评估的函数均位于main.py文件内，通过参数的控制实现
+
 ## 训练
 
 ```
