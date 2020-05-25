@@ -40,7 +40,7 @@
 ## 数据集
 DailyDialog
 * 规模：Total Dialogues	13,118，Average Speaker Turns Per Dialogue	7.9
-* 来源：http://yanran.li/dailydialog
+* Ref：http://yanran.li/dailydialog
 
 ## Seq2Seq
 * Encoder: GRU
@@ -51,7 +51,7 @@ DailyDialog
 * Luong等人提出的流程 Ref: https://arxiv.org/abs/1508.04025
 
 ## BeamSearch
-* 层次遍历实现 Follow:https://blog.csdn.net/u014514939/article/details/95667422?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+* 层次遍历实现 Ref:https://blog.csdn.net/u014514939/article/details/95667422?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
 
 # 使用方法
 ---
