@@ -91,7 +91,7 @@ $ python main.py [--options]
 ```
 ## 评估
 ```
-$ python main.py --test [--options]
+$ python main.py --test --load_model_path=dir [--options]
 ```
 
 
